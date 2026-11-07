@@ -24,6 +24,7 @@
 
 
 #include "ofxRectangleUtils.h"
+#include <algorithm>
 #include "ofLog.h"
 
 
